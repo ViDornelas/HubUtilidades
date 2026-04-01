@@ -1,7 +1,7 @@
 # Hub de Utilidades — Android
 
 ## Aluno
-**[SEU NOME AQUI]**
+**Vinícius Silva Dornelas**
 
 ---
 
